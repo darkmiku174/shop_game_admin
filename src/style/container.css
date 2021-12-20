@@ -1,0 +1,11 @@
+.item{
+    order: 5;
+}
+
+.cart-wrap{
+    display: flex;
+}
+
+.table-container{
+    width: 60rem;
+}
